@@ -1,6 +1,6 @@
 
 import { useState, useEffect, type ReactNode } from "react";
-import { FaHome, FaUser, FaFolderOpen, FaFileAlt, FaPhoneAlt } from "react-icons/fa";
+import { FaHome, FaUser, FaFileAlt, FaPhoneAlt } from "react-icons/fa";
 
 type MenuItem = {
   id: string;

@@ -9,7 +9,6 @@ import {
   FaGithub,
   FaDocker,
   FaAws,
-  FaDatabase,
   FaFigma,
   FaGitlab,
   FaLinux,

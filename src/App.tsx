@@ -5,7 +5,7 @@ import MainPage from "./pages/mainPage";
 import AboutMe from "./pages/AboutMe";
 import ContactMe from "./pages/ContactMe";
 import Resume from './pages/Resume';
-import Projects from './pages/Projects';
+// import Projects from './pages/Projects';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import SettingsButton from "./components/SettingsButton";
